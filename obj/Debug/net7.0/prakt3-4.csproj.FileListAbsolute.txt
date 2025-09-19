@@ -1,0 +1,14 @@
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\bin\Debug\net7.0\prakt3-4.exe
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\bin\Debug\net7.0\prakt3-4.deps.json
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\bin\Debug\net7.0\prakt3-4.runtimeconfig.json
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\bin\Debug\net7.0\prakt3-4.dll
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\bin\Debug\net7.0\prakt3-4.pdb
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\prakt3-4.GeneratedMSBuildEditorConfig.editorconfig
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\prakt3-4.AssemblyInfoInputs.cache
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\prakt3-4.AssemblyInfo.cs
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\prakt3-4.csproj.CoreCompileInputs.cache
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\prakt3-4.dll
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\refint\prakt3-4.dll
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\prakt3-4.pdb
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\prakt3-4.genruntimeconfig.cache
+Y:\ІТ-21,22\ІТ-31\Величко Владислав\ООП\prakt3-4\obj\Debug\net7.0\ref\prakt3-4.dll
